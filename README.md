@@ -7,6 +7,8 @@
 </p>
 
 ![slot](https://user-images.githubusercontent.com/91209141/158395896-be4bd851-27a5-43ca-8508-f61b6b7fe7ce.jpg)
+![jackpot](https://github.com/ThiagoLahass/Slot-Machine/blob/main/images.jpg)
+![slot](https://user-images.githubusercontent.com/91209141/158395896-be4bd851-27a5-43ca-8508-f61b6b7fe7ce.jpg)
 
 
 ## Índice 
