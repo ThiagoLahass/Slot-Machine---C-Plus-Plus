@@ -6,10 +6,11 @@
 <img src="http://img.shields.io/static/v1?label=code_quality&message=C-Sharp&color=GREEN&style=for-the-badge"/>
 </p>
 
-![slot](https://user-images.githubusercontent.com/91209141/158395896-be4bd851-27a5-43ca-8508-f61b6b7fe7ce.jpg)
-![jackpot](https://github.com/ThiagoLahass/Slot-Machine/blob/main/images.jpg)
-![slot](https://user-images.githubusercontent.com/91209141/158395896-be4bd851-27a5-43ca-8508-f61b6b7fe7ce.jpg)
+<div align="center">
 
+![jackpot](https://github.com/ThiagoLahass/Slot-Machine/blob/main/images.jpg)
+
+  </div>
 
 ## Índice 
 
