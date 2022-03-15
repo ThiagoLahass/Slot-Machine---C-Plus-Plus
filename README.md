@@ -15,15 +15,17 @@
 ## Índice 
 
 * [Índice](#índice)
+* [Resumo](#resumo)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
+## Resumo
 
 ## Descrição do Projeto
 
@@ -51,9 +53,12 @@ Para utilizar o projeto basta fazer o seu dowload [aqui](https://github.com/Thia
 
 ## Tecnologias utilizadas
 
-## Pessoas Contribuidoras
+- ``C#``
 
 ## Pessoas Desenvolvedoras do Projeto
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
 
 ## Licença
 
