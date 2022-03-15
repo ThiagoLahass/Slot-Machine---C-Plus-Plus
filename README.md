@@ -3,7 +3,7 @@
 <img src="http://img.shields.io/static/v1?label=VERSAO&message=v0.0.0&color=blue&style=for-the-badge"/>
 </p>
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=code_quality&message=C-Sharp&color=res&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=code_quality&message=C-Plus-Plus&color=res&style=for-the-badge"/>
 </p>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
@@ -45,13 +45,8 @@ um botão para o início de uma jogada, além de um botão para parar de jogar.
 Além disso há uma interface composta por um display que descreve o valor da aposta atual, os créditos do jogador,
 quantos pontos ganhou ou perdeu, e todas as informações necessárias, onde cada aposta será subtraída
 do valor dos créditos assim que o botão para iniciar a jogada for pressionado. 
-  O segundo sistema irá sortear três ícones dentro de um espaço amostral e uma eventual premiação em
-créditos para o jogador caso os ícones sorteados correspondam a ao menos um de uma série
-de combinações já definidas. 
-  O terceiro sistema tem o objetivo de representar o sorteio por meio de três roletas controladas por motores,
-onde estarão impressos de forma radial todos os possíveis ícones para sorteio, que devem ser alinhados em direção ao painel conforme o
-resultado gerado. No início de cada rodada, o jogador tem um total de 100 pontos e pode apostar 10, 20 ou 30 créditos em cada jogada. 
-  Após a realização do sorteio de uma combinação de ícones, caso esta for uma combinação de dois ou três ícones iguais
+No início de cada rodada, o jogador tem um total de 100 pontos e pode apostar 10, 20 ou 30 créditos em cada jogada. 
+Após a realização do sorteio de uma combinação de ícones, caso esta for uma combinação de dois ou três ícones iguais
 incrementa-se uma certa quantidade de pontos que depende do ícone sorteado e que é proporcional a quantidade de pontos
 que foi apostada no jogo. Caso o jogador não possua pontos suficientes para apostar novamente a partida termina e então o jogo reinicia.
 
@@ -100,7 +95,7 @@ o botão existente para essa escolha.
 
 ## Tecnologias utilizadas
 
-- ``C#``
+- ``C++``
 
 ## Pessoas Desenvolvedoras do Projeto
 
