@@ -39,7 +39,7 @@ Projeto concluído com sucesso, com algumas funcionalidades a mais do que o proj
 
 ## Acesso ao Projeto
 ### 📁 Acesso ao projeto
-O código fonte se encontra disponivel no ![GitHub](https://github.com/ThiagoLahass/Slot-Machine.git) 
+O código fonte se encontra disponivel no ![GitHub](https://github.com/ThiagoLahass/Slot-Machine.git), atraves do arquivo ![Slot machine.ino](
 **Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
 
 ### 🛠️ Abrir e rodar o projeto
