@@ -6,8 +6,6 @@
 <img src="http://img.shields.io/static/v1?label=code_quality&message=C-Sharp&color=GREEN&style=for-the-badge"/>
 </p>
 
-Jogo de slot machine simplificado.
-
 ![slot](https://user-images.githubusercontent.com/91209141/158395896-be4bd851-27a5-43ca-8508-f61b6b7fe7ce.jpg)
 
 
@@ -27,24 +25,26 @@ Jogo de slot machine simplificado.
 ## Descrição do Projeto
 
 ## Status do Projeto
-Projeto concluído com sucesso, com algumas funcionalidades a mais do que o projeto inicial apresentado.
+  Projeto concluído com sucesso, com algumas funcionalidades a mais do que o projeto inicial apresentado.
 
 ## Funcionalidades e Demonstração da Aplicação
 ### :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1` `Aumentar Aposta`:   O botão Amarelo permite ao jogador aumentar a aposta de 10 em 10 unidades, até o limite máximo por jogada, que é de 30 unidades.
+ 
+- `Funcionalidade 2` `Diminuir Aposta`:   O botão Vermelho permite ao jogador diminuir a aposta de 10 em 10 unidades, até o limite mínimo por jogada, que é de 10 unidades.
+ 
+- `Funcionalidade 3` `Jogar`:             O botão Verde permite ao jogador iniciar a jogada após ele escolher quantas unidades deseja apostar.
+
+- `Funcionalidade 4` `Parar de jogar`:    O botão restante permite ao jogador parar de jogar com a quantidade de unidades que possui.
 
 ## Acesso ao Projeto
 ### 📁 Acesso ao projeto
-O código fonte se encontra disponivel no ![GitHub](https://github.com/ThiagoLahass/Slot-Machine.git), atraves do arquivo ![Slot machine.ino](
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine.git), e o código principal se encontra disponivel em [Slot machine.ino](https://github.com/ThiagoLahass/Slot-Machine/blob/main/Slot%20Machine.ino).
 
 ### 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+Para utilizar o projeto basta fazer o seu dowload [aqui](https://github.com/ThiagoLahass/Slot-Machine.git), abrir o código principal atraves da [Arduino IDE](https://www.arduino.cc/en/software) e fazer o seu upload para o Arduino através da Arduino IDE após fazer a montagem do hardware do projeto.
 
 ## Tecnologias utilizadas
 
