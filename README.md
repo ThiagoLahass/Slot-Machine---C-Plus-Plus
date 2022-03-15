@@ -57,7 +57,7 @@ Para utilizar o projeto basta fazer o seu dowload [aqui](https://github.com/Thia
 
 ## Pessoas Desenvolvedoras do Projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/91209141?s=400&u=a6853a4dc0b54f8347d0b85f4a0b56c725dc1b3a&v=4" width=115><br><sub>Thiago Lahass</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img src="https://avatars.githubusercontent.com/u/91209141?s=400&u=a6853a4dc0b54f8347d0b85f4a0b56c725dc1b3a&v=4" width=115><br><sub>Thiago Lahass</sub>](https://github.com/ThiagoLahass) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
 
 
