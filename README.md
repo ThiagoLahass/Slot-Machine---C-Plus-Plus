@@ -22,10 +22,24 @@
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-* [Licença](#licença)
 * [Conclusão](#conclusão)
+* [Copyright](#copyright)
 
 ## Resumo
+O objetivo é produzir uma máquina caça-níqueis utilizando um microcontrolador Arduino. A
+máquina será composta de três sistemas que funcionam em conjunto para realizar um jogo. O
+primeiro sistema envolve a criação de um mecanismo de apostas, onde haverão dois botões
+para o controle de apostas, um botão para o início de uma jogada, além de um botão para parar de jogar.
+Além disso há um display que descreve o valor da aposta atual, os créditos do jogador, quantos pontos ganhou ou perdeu,
+e as todas as informações necessárias, onde cada aposta será subtraída
+do valor dos créditos assim que o botão para iniciar a jogada for pressionado. O segundo
+sistema irá sortear três ícones dentro de um espaço amostral e uma eventual premiação em
+créditos para o jogador caso os ícones sorteados correspondam a ao menos um de uma série
+de combinações já definidas. O terceiro sistema tem o objetivo de representar o sorteio por
+meio de três roletas controladas por motores, onde estarão impressos de forma radial todos os
+possíveis ícones para sorteio, que devem ser alinhados em direção ao painel conforme o
+resultado gerado. O jogo termina e o sistema reinicia caso após uma jogada o valor total dos
+créditos do jogador for menor do que a aposta miníma.
 
 ## Descrição do Projeto
 
@@ -61,3 +75,6 @@ Para utilizar o projeto basta fazer o seu dowload [aqui](https://github.com/Thia
 | :---: | :---: | :---: |
 
 ## Conclusão
+
+## Copyright
+Copyright ©️ 2022 - Slot Machine
