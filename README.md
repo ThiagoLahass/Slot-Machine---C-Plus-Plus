@@ -28,7 +28,7 @@
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
+* [Desenvolvedores](#desenvolvedores)
 
 ## Resumo
 O projeto trata-se da implementação em arduino de uma Slot Machine. Também conhecida como máquina caca níquel,
@@ -97,7 +97,7 @@ o botão existente para essa escolha.
 
 - ``C++``
 
-## Pessoas Desenvolvedoras do Projeto
+## Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/91209141?s=400&u=a6853a4dc0b54f8347d0b85f4a0b56c725dc1b3a&v=4" width=115><br><sub>Thiago Lahass</sub>](https://github.com/ThiagoLahass) | <img src="https://user-images.githubusercontent.com/91209141/158442505-09560fe5-5c19-4fa0-9b4a-9a45edb1507a.jpg" width=115><br><sub>Luiz Bazoni</sub> | <img src="https://user-images.githubusercontent.com/91209141/158442548-22e4ecff-242a-4841-819c-e7ffa72a0543.jpg" width=115><br><sub>Daniel Ferrari</sub> |
 | :---: | :---: | :---: |
