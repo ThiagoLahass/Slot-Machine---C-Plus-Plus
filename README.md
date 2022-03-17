@@ -65,8 +65,8 @@ que foi apostada no jogo. Caso o jogador não possua pontos suficientes para apo
 O esquemático do tipo Protoboard pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/51826cee8dc01f87b5628d1e684ba7f4e3b7fb9c/Esquem%C3%A1tico_Slot_Machine_Protoboard_PDF.pdf).
 
 - Esquemático do tipo Sch:
-![Sch](https://github.com/ThiagoLahass/Slot-Machine/blob/5069eec2d1cbcad05709c2492b4839804c380e83/Esquem%C3%A1tico_Slot_Machine_Protoboard_PNG.png)
-O esquemático do tipo Protoboard pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/51826cee8dc01f87b5628d1e684ba7f4e3b7fb9c/Esquem%C3%A1tico_Slot_Machine_Protoboard_PDF.pdf).
+![Sch](https://github.com/ThiagoLahass/Slot-Machine/blob/244c6c3921201fdc5863079d8da1f429a7fb9eb6/Esquem%C3%A1tico_Slot_Machine_Esquem%C3%A1ticoPNG.png)
+O esquemático do tipo Sch pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/51826cee8dc01f87b5628d1e684ba7f4e3b7fb9c/Esquem%C3%A1tico_Slot_Machine_Protoboard_PDF.pdf).
 
 ## Código Principal
 Para acessar o código principal você pode clicar [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/main/Slot%20Machine.ino).
