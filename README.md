@@ -59,7 +59,7 @@ que foi apostada no jogo. Caso o jogador não possua pontos suficientes para apo
 - 6 Engrenagens de plástico
 - Jumpers
 
-Uma lista mais detalhada dos componentes da lista de montagem e uma lista de compras pode ser viasualizado em [Assembly_List and Shop_List](https://github.com/ThiagoLahass/Slot-Machine/blob/02071e7242f7a0d43090861bc5f4e875550b7176/Assembly_List%20and%20Shop_List.pdf).
+Uma lista mais detalhada dos componentes da lista de montagem e uma lista de compras pode ser visualizada em [Assembly_List and Shop_List](https://github.com/ThiagoLahass/Slot-Machine/blob/02071e7242f7a0d43090861bc5f4e875550b7176/Assembly_List%20and%20Shop_List.pdf).
 
 ## Esquemático
 - Esquemático do tipo Protoboard:
