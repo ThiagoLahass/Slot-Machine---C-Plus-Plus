@@ -60,9 +60,9 @@ que foi apostada no jogo. Caso o jogador não possua pontos suficientes para apo
 - Jumpers
 
 ## Esquemático
-Esquemático do tipo Protoboard:
+- Esquemático do tipo Protoboard:
 ![Protoboard](https://github.com/ThiagoLahass/Slot-Machine/blob/5069eec2d1cbcad05709c2492b4839804c380e83/Esquem%C3%A1tico_Slot_Machine_Protoboard_PNG.png)
-O esquemático pode ser visualizado com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/a49005407387b00b09cc741ba08f336f8a22dda2/Esquem%C3%A1tico_Slot_Machine_Esquem%C3%A1tico_PDF.pdf).
+O esquemático do tipo Protoboard pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/51826cee8dc01f87b5628d1e684ba7f4e3b7fb9c/Esquem%C3%A1tico_Slot_Machine_Protoboard_PDF.pdf).
 
 ## Código Principal
 Para acessar o código principal você pode clicar [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/main/Slot%20Machine.ino).
