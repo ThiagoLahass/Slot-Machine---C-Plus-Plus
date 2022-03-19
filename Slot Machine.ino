@@ -1,3 +1,10 @@
+/*
+ * Máquina de Jackpot
+ * Implementação no arduino e código  - Daniel Ferrari Alves
+ * Código, Ideia e Descrição          - Luiz Phillyp Sabadini Bazoni
+ * Código, Esquemático e Github       - Thiago Felippe Neitzke Lahass
+ */
+
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 #include <Stepper.h>
@@ -75,13 +82,14 @@ void loop()
   
   //le o valor do botao
   currentValue = analogRead(inputButton);
+  Serial.println(currentValue);
   
   if(currentValue != oldValue)
   {
     oldValue = currentValue;
     
-    //511 eh o que deve ser lido no botao da esquerda
-    if((currentValue >= 500)&&(currentValue <= 520))
+    //botao amarelo
+    if((currentValue >= 300)&&(currentValue <= 400))
     {
         
       while(1)
@@ -92,6 +100,7 @@ void loop()
           break;
         }
       }
+      Serial.println("Botao amarelo");
       aposta+= 10;
       if(aposta > 30)
       {
@@ -119,8 +128,8 @@ void loop()
       
       
     }
-    
-    if((currentValue >= 1010)&&(currentValue <= 1030))
+    //botao vermelho
+    if((currentValue >= 450)&&(currentValue <= 550))
     {
       while(1)
       {
@@ -130,6 +139,7 @@ void loop()
           break;
         }
       }
+      Serial.println("Botao vermelho");
       aposta -= 10;
       if(aposta < 10)
       {
@@ -151,8 +161,8 @@ void loop()
       
     }
     
-  
-    if((currentValue >= 330)&&(currentValue <= 350))
+    //botao verde
+    if((currentValue >= 200)&&(currentValue <= 300))
     {
       while(1)
       {
@@ -162,6 +172,7 @@ void loop()
           break;
         }
       }
+      Serial.println("Botao verde");
       if(pontos < aposta){
         lcd.setCursor(0,0);
         lcd.print("      ERRO      ");
@@ -226,6 +237,30 @@ void loop()
           lcd.print(pontos);
         }
       }
+    }
+    //botao pequeno
+    if((currentValue >= 950)&&(currentValue <= 1050))
+    {
+      while(1)
+      {
+        currentValue = analogRead(inputButton);
+        if(currentValue<=50)
+        {
+          break;
+        }
+      }
+      lcd.setCursor(0,0);
+      lcd.print("Jogo Finalizado!");
+      lcd.setCursor(0,1);
+      lcd.print("Total:    Pontos");
+      lcd.setCursor(7,1);
+      lcd.print(pontos);
+      pontos = 100;
+      resetarRoletas(ultimoSorteio);
+      lcd.setCursor(0,0);
+      lcd.print("    VOCE TEM    ");
+      lcd.setCursor(0,1);
+      lcd.print("   100 PONTOS   ");
     }
   }
 
