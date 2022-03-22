@@ -52,14 +52,13 @@ que foi apostada no jogo. Caso o jogador não possua pontos suficientes para apo
 
 ## Materiais Utilizados
 - 1 Arduino Uno
-- 3 Resistores de 330 Ohms
-- 3 Botões
+- 4 Resistores de 330 Ohms
+- 4 Botões
 - 1 Display com interface I2c
 - 3 Motores de passo com um controlador cada
-- 6 Engrenagens de plástico
 - Jumpers
 
-Uma lista mais detalhada dos componentes da lista de montagem e uma lista de compras pode ser visualizada em [Assembly_List and Shop_List](https://github.com/ThiagoLahass/Slot-Machine/blob/02071e7242f7a0d43090861bc5f4e875550b7176/Assembly_List%20and%20Shop_List.pdf).
+Uma lista mais detalhada dos componentes da lista de montagem e uma lista de compras pode ser visualizada em [Assembly_List and Shop_List](https://github.com/ThiagoLahass/Slot-Machine/blob/a0ea7bf2068887c38113c2a058592477896dc8e3/Assembly_List%20and%20Shop_List.pdf).
 
 ## Esquemático
 - Esquemático do tipo Protoboard:
