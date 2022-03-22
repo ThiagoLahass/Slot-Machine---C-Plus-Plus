@@ -70,7 +70,7 @@ O esquemático do tipo Protoboard pode ser visualizado no modo PDF com detalhes 
 O esquemático do tipo Sch pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/3115a5e2b5a5a5d44584cc6494db4d8da1533b8f/Slot_Machine_Esquem%C3%A1tico_PDF_final.pdf).
 
 ## Código Principal
-Para acessar o código principal você pode clicar [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/main/Slot%20Machine.ino).
+Para acessar o código principal você pode clicar [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/75452ab6eeb6d34050fd3be240ec20281ed632f6/Slot%20Machine_Code_final.ino).
 
 ## Status do Projeto
   :white_check_mark: Projeto concluído com sucesso, com algumas funcionalidades a mais do que o projeto inicial apresentado.
