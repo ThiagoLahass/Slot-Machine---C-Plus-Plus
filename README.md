@@ -63,7 +63,7 @@ Uma lista mais detalhada dos componentes da lista de montagem e uma lista de com
 ## Esquemático
 - Esquemático do tipo Protoboard:
 ![Protoboard](https://github.com/ThiagoLahass/Slot-Machine/blob/5069eec2d1cbcad05709c2492b4839804c380e83/Esquem%C3%A1tico_Slot_Machine_Protoboard_PNG.png)
-O esquemático do tipo Protoboard pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/51826cee8dc01f87b5628d1e684ba7f4e3b7fb9c/Esquem%C3%A1tico_Slot_Machine_Protoboard_PDF.pdf).
+O esquemático do tipo Protoboard pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/18c0d1bffff9e353bf9844c5974f0088e7d56d39/Esquem%C3%A1tico_Slot_Machine_Esquem%C3%A1tico_PDF.pdf).
 
 - Esquemático do tipo Sch:
 ![Sch](https://github.com/ThiagoLahass/Slot-Machine/blob/d3734365f69682db6cf6428c0c01ca5cf634070e/Esquem%C3%A1tico_Slot_Machine_Esquem%C3%A1ticoPNG.png)
