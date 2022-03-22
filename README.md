@@ -67,7 +67,7 @@ O esquemático do tipo Protoboard pode ser visualizado no modo PDF com detalhes 
 
 - Esquemático do tipo Sch:
 ![Sch](https://github.com/ThiagoLahass/Slot-Machine/blob/e156de27f493eb1db5fd72a5521539a3741fdfca/Slot_Machine_Esquem%C3%A1ticoPNG_final.png)
-O esquemático do tipo Sch pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/51826cee8dc01f87b5628d1e684ba7f4e3b7fb9c/Esquem%C3%A1tico_Slot_Machine_Esquem%C3%A1tico_PDF.pdf).
+O esquemático do tipo Sch pode ser visualizado no modo PDF com detalhes clicando [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/3115a5e2b5a5a5d44584cc6494db4d8da1533b8f/Slot_Machine_Esquem%C3%A1tico_PDF_final.pdf).
 
 ## Código Principal
 Para acessar o código principal você pode clicar [aqui](https://github.com/ThiagoLahass/Slot-Machine/blob/main/Slot%20Machine.ino).
